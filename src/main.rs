@@ -1,4 +1,4 @@
-use::relrige_parser_kma::list_parser;
+use::relrige2_parser_kma::list_parser;
 
 pub fn main() {
     println!("{:?}",list_parser::list("[1,1,2,3,5,8]"));

@@ -48,7 +48,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "relrige_parser_kma"
+name = "relrige2_parser_kma"
 version = "0.1.0"
 dependencies = [
  "peg",
